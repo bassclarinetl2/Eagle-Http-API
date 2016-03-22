@@ -20,7 +20,7 @@ REQUIRES=[
 setup(
     name=PACKAGE_NAME,
     version=__version__,
-    licence='MIT License',
+    licence='MIT',
     url='https://github.com/bassclarinetl2/Eagle-Http-API',
     download_url=DOWNLOAD_URL,
     author='Will Heid',
