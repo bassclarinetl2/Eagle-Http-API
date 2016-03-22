@@ -5,7 +5,7 @@ from setuptools import setup,find_packages
 
 __version__ = "0.1.0"
 
-PACKAGE_NAME = 'eagle_http_api'
+PACKAGE_NAME = 'eagle_http_api_bc'
 HERE = os.path.abspath(os.path.dirname(__file__))
 DOWNLOAD_URL = ('https://github.com/bassclarinetl2/Eagle-Http-API/archive/' '{}.zip'.format(__version__))
 
