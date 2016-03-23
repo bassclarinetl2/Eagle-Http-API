@@ -7,7 +7,10 @@ __version__ = "0.1.0"
 
 PACKAGE_NAME = 'eagle_http_api'
 HERE = os.path.abspath(os.path.dirname(__file__))
-DOWNLOAD_URL = ('https://github.com/bassclarinetl2/Eagle-Http-API/archive/' '{}.zip'.format(__version__))
+
+
+DOWNLOAD_URL = ('https://github.com/bassclarinetl2/eagle-http-api/archive/'
+                '{}.zip'.format(__version__))
 
 
 PACKAGES = find_packages(exclude=['tests','tests.*'])
