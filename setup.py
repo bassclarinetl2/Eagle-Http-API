@@ -3,7 +3,7 @@
 import os
 from setuptools import setup,find_packages
 
-__version__ = "0.1.0"
+__version__ = "v0.0.1"
 
 PACKAGE_NAME = 'eagle_http_api'
 HERE = os.path.abspath(os.path.dirname(__file__))
