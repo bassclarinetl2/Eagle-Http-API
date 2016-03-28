@@ -1,3 +1,7 @@
+NOTE: THE DOCUMENTATION BELOW IS DIRECTLY FROM THE ORIGINAL REPO: rainforestautomation/Eagle-Http-API
+
+
+
 2015-04-20  Chrome Browser Extension Released!
 
 ![alt tag](https://lh3.googleusercontent.com/-BGEkB6ghmKoZfKBUjj_i0jpYQEoeYy_ApB4Yoweeg5hbkTGdC0ZxznTYkgiMCyse4Bd8cLOow=s640-h400-e365)
