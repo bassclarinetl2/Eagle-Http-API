@@ -3,7 +3,7 @@ from lxml import etree
 from lxml import objectify
 import requests
 import copy
-from .api_classes import *
+from eagle_http_api.api_classes import *
 import datetime
 
 
