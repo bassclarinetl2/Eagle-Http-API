@@ -1,0 +1,4 @@
+##MANIFEST
+
+include /eagle_http_api/api_classes.py
+include /eagle_http_api/base_class.py
